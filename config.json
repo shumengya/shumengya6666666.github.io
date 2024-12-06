@@ -2,5 +2,8 @@
     "title":"树萌芽の狗窝",
     "subTitle":"可以存放一些杂七杂八的东西（一些非技术性Markdown文档之类的）",
     "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
+    "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekVercount.js'></script>",
+    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script><script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>",
+
     "GMEEK_VERSION":"last"
 }
